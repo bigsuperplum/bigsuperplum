@@ -1,7 +1,5 @@
 ## Hello, Github!👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsuperplum)](https://github.com/bigsuperplum/github-readme-stats)
-
 我是来自华中科技大学计算机科学与技术学院的一名大一新生 bigsuperplum。
 
 目前我还没有明确的技术方向，但对于即将学习的编程语言、算法以及更深入的人工智能等领域有着很大的兴趣，渴望在本科阶段探索与钻研。
