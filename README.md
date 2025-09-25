@@ -1,4 +1,5 @@
 ## Hello, Github!👋
+
 我是来自华中科技大学计算机科学与技术学院的一名大一新生 bigsuperplum。
 
 目前我还没有明确的技术方向，但对于即将学习的编程语言、算法以及更深入的人工智能等领域有着很大的兴趣，渴望在本科阶段探索与钻研。
@@ -9,7 +10,8 @@
 
 诚然，人工智能领域竞争激烈，而我作为大一新生，基础又较为薄弱，没有什么成果，不敢说在短时间内获得突飞猛进的成就，但我会循序渐进，运用互联网上丰富的资源，以和先前一样努力的姿态学习相关知识，在实践中深耕创新。
 
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+我目前擅长使用![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)，正在学习![Static Badge](https://img.shields.io/badge/Python-8A2BE2).
+
 
 
 <!--
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
