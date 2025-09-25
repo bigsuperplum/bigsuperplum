@@ -1,5 +1,5 @@
 ## Hello, Github!👋
-我是来自
+我是来自华中科技大学的一名大一新生 bissuperplum，
 
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
