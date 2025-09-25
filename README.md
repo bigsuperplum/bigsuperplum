@@ -1,8 +1,11 @@
 ## Hello, Github!👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsuperplum)](https://github.com/bigsuperplum/github-readme-stats)
+
 我是来自华中科技大学计算机科学与技术学院的一名大一新生 bigsuperplum。
 
 目前我还没有明确的技术方向，但对于即将学习的编程语言、算法以及更深入的人工智能等领域有着很大的兴趣，渴望在本科阶段探索与钻研。
+
+我目前擅长使用 ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)，正在学习 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2).
 
 我喜欢深入探索一些挑战思维的事情。高中阶段，我曾参加过两年的数学竞赛，对于一道艰难的题目，我经常会用数小时乃至一天的时间去研究它，有时还会运用自己对知识的理解，将学习过程中突然想到的“灵感”转变为新的解决方案或题目。例如，今年的一月份到五月份，我在备战高考之余寻找数学的趣味，经过不断的调整与完善，编制了一套高考数学模拟试题。暑假期间，我尝试自学编程，选择了 C++ 作为首先学习的语言，同时了解了一些基础的算法，在洛谷上小试牛刀，对看起来万能的计算机以及程序背后巧妙的算法产生了兴趣。
 
@@ -10,7 +13,7 @@
 
 诚然，人工智能领域竞争激烈，而我作为大一新生，基础又较为薄弱，没有什么成果，不敢说在短时间内获得突飞猛进的成就，但我会循序渐进，运用互联网上丰富的资源，以和先前一样努力的姿态学习相关知识，在实践中深耕创新。
 
-我目前擅长使用 ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)，正在学习 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2).
+
 
 
 
